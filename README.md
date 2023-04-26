@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at __https://github.com/mehmetsaricam__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana__
 - 📫 How to reach me: __muslumhanozturk@gmail.com__
-- 📄 Know about my experiences __https://www.linkedin.com/in/mehmetsaricam__
+- 📄 Know about my experiences __https://www.linkedin.com/in/mehmetsaricam/__
 
 
 
