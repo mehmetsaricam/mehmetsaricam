@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Muslum Han OZTURK</h1>
+    <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Mehmet SARICAM</h1>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 
 - 🌱 I’m currently learning __AWS Cloud Architect / DevOps Engineering__
-- 👨‍💻 All of my projects are available at __https://github.com/muslumhanozturk__
+- 👨‍💻 All of my projects are available at __https://github.com/mehmetsaricam__
 - 💬 Ask me about __AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Prometheus, Grafana__
 - 📫 How to reach me: __muslumhanozturk@gmail.com__
 - 📄 Know about my experiences __https://www.linkedin.com/in/muslumhanozturk__
