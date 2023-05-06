@@ -24,7 +24,7 @@
       </a>
     </td>
     <td>
-      <a href="https://instagram.com/m.hanozturk" title="Instagram" target="_blank">
+      <a href="https://instagram.com/mehmetsaricam1" title="Instagram" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hanozturk" height="30" width="40" />
       </a>
     </td>
